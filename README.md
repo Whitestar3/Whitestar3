@@ -25,19 +25,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 <img alt="Night Coding" src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3>
-<img alt="Night Coding" src="icons8-visual-studio-code-2019-48.png" width='40' align="left"/><h3>Visual Studio Code</h3>
-<img alt="Night Coding" src="icons8-logotipo-de-java-coffee-cup-94.png" width='40' align="left"/><h3>Bootstrap</h3>
+<img alt="Night Coding" src="icons8-logotipo-de-java-coffee-cup-94.png" width='40' align="left"/><h3>Java</h3>
+<img alt="Night Coding" src="icons8-proyecto-r-48.png" width='40' align="left"/><h3>RStudio</h3>
+<img alt="Night Coding" src="icons8-html5-48.png" width='40' align="left"/><h3>HTML5</h3>
+<img alt="Night Coding" src="icons8-css-48.png" width='40' align="left"/><h3>CSS3</h3>
 <img alt="Night Coding" src="icons8-oreja-48.png" width='40' align="left"/><h3>Bootstrap</h3>
-
-![Python](icons8-python-48.png) 
-![Java](icons8-logotipo-de-java-coffee-cup-94.png)
-![R (Statistics)](icons8-proyecto-r-48.png)
-![Bootstrap](icons8-oreja-48.png)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![GitHub](icons8-github-50.png);
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+<img alt="Night Coding" src="icons8-github-50.png" width='40' align="left"/><h3>GitHub</h3>
+<img alt="Night Coding" src="icons8-visual-studio-code-2019-48.png" width='40' align="left"/><h3>Visual Studio Code</h3>
 
 
 <p align="center">
