@@ -25,8 +25,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 <img alt="Night Coding" src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3>
-<img alt="Night Coding" src="icons8-visual-studio-code-2019-48.png" width='40' align="left"/><h3>Python</h3>
-
+<img alt="Night Coding" src="icons8-visual-studio-code-2019-48.png" width='40' align="left"/><h3>Visual Studio Code</h3>
+<img alt="Night Coding" src="icons8-logotipo-de-java-coffee-cup-94.png" width='40' align="left"/><h3>Bootstrap</h3>
+<img alt="Night Coding" src="icons8-oreja-48.png" width='40' align="left"/><h3>Bootstrap</h3>
 
 ![Python](icons8-python-48.png) 
 ![Java](icons8-logotipo-de-java-coffee-cup-94.png)
