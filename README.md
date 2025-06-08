@@ -38,9 +38,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/julio-novoa/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/julio-novoa/"><img src="icons8-linkedin-48.png"/></a>
 </p>
 
