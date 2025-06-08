@@ -24,8 +24,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img alt="Night Coding" src="icons8-python.gif" width='40' align="left"/><h3>Python</h3>
-![Python](icons8-python.gif)
+<img alt="Night Coding" src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3>
+![Python](icons8-python-48.png)
 ![Java](icons8-logotipo-de-java-coffee-cup-94.png)
 ![R (Statistics)](icons8-proyecto-r-48.png)
 ![Bootstrap](icons8-oreja-48.png)
