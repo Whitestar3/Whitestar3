@@ -24,7 +24,7 @@
 
 ---
 
-**🧠 Pila tecnológica**
+** 🚀 Tech Stack
 
 <p align="left">
   <img src="icons8-python-48.png" alt="Python" width="40" title="Python"/>
