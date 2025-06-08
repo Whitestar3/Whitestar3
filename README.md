@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Whitestar3/Whitestar3/main/portada_julio" alt="Banner Julio" width="100%">
+<img src="CIENTIFICO DE DATOS.jpg" alt="Banner Julio" width="100%">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Julio</h2>
 
