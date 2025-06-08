@@ -24,13 +24,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](icons8-python.gif)&nbsp;
-![Java](icons8-logotipo-de-java-coffee-cup-94.png)&nbsp;
-![R (Statistics)](icons8-proyecto-r-48.png)&nbsp;
-![Bootstrap](icons8-oreja-48.png)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Python](icons8-python.gif);
+![Java](icons8-logotipo-de-java-coffee-cup-94.png);
+![R (Statistics)](icons8-proyecto-r-48.png);
+![Bootstrap](icons8-oreja-48.png);
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5);
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6);
+![GitHub](icons8-github-50.png);
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
