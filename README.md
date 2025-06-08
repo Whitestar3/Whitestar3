@@ -22,9 +22,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+Tech Stack
 
-<img  src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3> 
+<img alt="Night Coding" src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3> 
 <img alt="Night Coding" src="icons8-logotipo-de-java-coffee-cup-94.png" width='40' align="left"/><h3>Java</h3> 
 <img alt="Night Coding" src="icons8-proyecto-r-48.png" width='40' align="left"/><h3>RStudio</h3> 
 <img alt="Night Coding" src="icons8-html5-48.png" width='40' align="left"/><h3>HTML5</h3> 
