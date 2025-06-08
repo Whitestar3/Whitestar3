@@ -22,16 +22,20 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<img alt="Night Coding" src="icons8-habilidad-de-desarrollo-50.png" width='20' align="left"/><h3>Python</h3>  Tech Stack
+---
 
-<img alt="Night Coding" src="icons8-python-48.png" width='40' align="left"/><h3>Python</h3> 
-<img alt="Night Coding" src="icons8-logotipo-de-java-coffee-cup-94.png" width='40' align="left"/><h3>Java</h3> 
-<img alt="Night Coding" src="icons8-proyecto-r-48.png" width='40' align="left"/><h3>RStudio</h3> 
-<img alt="Night Coding" src="icons8-html5-48.png" width='40' align="left"/><h3>HTML5</h3> 
-<img alt="Night Coding" src="icons8-css-48.png" width='40' align="left"/><h3>CSS3</h3> 
-<img alt="Night Coding" src="icons8-oreja-48.png" width='40' align="left"/><h3>Bootstrap</h3>
-<img alt="Night Coding" src="icons8-github-50.png" width='40' align="left"/><h3>GitHub</h3> 
-<img alt="Night Coding" src="icons8-visual-studio-code-2019-48.png" width='40' align="left"/><h3>Visual Studio Code</h3>
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="icons8-python-48.png" alt="Python" width="40" title="Python"/>
+  <img src="icons8-logotipo-de-java-coffee-cup-94.png" alt="Java" width="40" title="Java"/>
+  <img src="icons8-proyecto-r-48.png" alt="RStudio" width="40" title="R"/>
+  <img src="icons8-html5-48.png" alt="HTML5" width="40" title="HTML5"/>
+  <img src="icons8-css-48.png" alt="CSS3" width="40" title="CSS3"/>
+  <img src="icons8-oreja-48.png" alt="Bootstrap" width="40" title="Bootstrap"/>
+  <img src="icons8-github-50.png" alt="GitHub" width="40" title="GitHub"/>
+  <img src="icons8-visual-studio-code-2019-48.png" alt="VS Code" width="40" title="VS Code"/>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-novoa/"><img src="icons8-linkedin-48.png"/></a>
