@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](Portada Julio)
+<img src="https://raw.githubusercontent.com/tuUsuario/tuRepo/main/banner.png" alt="Mi banner" width="100%">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Julio</h2>
 
